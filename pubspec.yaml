@@ -1,4 +1,4 @@
-name: bitcoin_ticker
+name: crypto_ticker
 description: A Flutter application for finding the prices of cryptocurrencies.
 version: 1.0.0+1
 environment:

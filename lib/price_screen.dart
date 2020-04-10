@@ -112,7 +112,7 @@ class _PriceScreenState extends State<PriceScreen> {
                     padding:
                         EdgeInsets.symmetric(vertical: 15.0, horizontal: 28.0),
                     child: Text(
-                      //Update the Text Widget with the live bitcoin data here.
+                      //Update the Text Widget with the live crypto data here.
                       '1 BTC = $fiatStringBTC $selectedCurrency',
                       textAlign: TextAlign.center,
                       style: TextStyle(
@@ -132,7 +132,7 @@ class _PriceScreenState extends State<PriceScreen> {
                     padding:
                         EdgeInsets.symmetric(vertical: 15.0, horizontal: 28.0),
                     child: Text(
-                      //Update the Text Widget with the live bitcoin data here.
+                      //Update the Text Widget with the live crypto data here.
                       '1 ETH = $fiatStringETH $selectedCurrency',
                       textAlign: TextAlign.center,
                       style: TextStyle(
@@ -152,7 +152,7 @@ class _PriceScreenState extends State<PriceScreen> {
                     padding:
                         EdgeInsets.symmetric(vertical: 15.0, horizontal: 28.0),
                     child: Text(
-                      //Update the Text Widget with the live bitcoin data here.
+                      //Update the Text Widget with the live crypto data here.
                       '1 LTC = $fiatStringLTC $selectedCurrency',
                       textAlign: TextAlign.center,
                       style: TextStyle(

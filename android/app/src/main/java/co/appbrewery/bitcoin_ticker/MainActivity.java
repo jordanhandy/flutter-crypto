@@ -1,4 +1,4 @@
-package com.jordanhandy.bitcoin_ticker;
+package com.jordanhandy.crypto_ticker;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
