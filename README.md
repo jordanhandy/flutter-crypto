@@ -1,4 +1,4 @@
-# crypto Ticker
+# Crypto Ticker
 
 ## About
 
